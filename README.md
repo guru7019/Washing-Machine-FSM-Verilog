@@ -15,6 +15,10 @@ Functional States
 
 > Simulation time scale: `1s / 10ms`
 
+State Transition Diagram
+![WhatsApp Image 2025-05-29 at 15 11 39_43e2c511](https://github.com/user-attachments/assets/e62baddd-7b19-4512-9600-5141246b511a)
+
+
 Simualtion results
 1) This image shows that the FSM moves from IDLE state to Fill stage after start is made active.
    ![image](https://github.com/user-attachments/assets/580754b6-ac0f-46b5-8ee7-ae833dd48620)
